@@ -68,11 +68,13 @@ p {
   position: absolute;
   top: 50px;
   right: 200px;
+  visibility: hidden;
 }
 
 .bottom-cloud {
   position: absolute;
   left: 200px;
+  visibility: hidden;
 }
 
 .pro {
